@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.hbh;
+package com.hbh.view;
 
 import java.awt.CardLayout;
 import javax.swing.UIManager;
