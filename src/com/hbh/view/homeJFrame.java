@@ -340,7 +340,7 @@ public class homeJFrame extends javax.swing.JFrame {
         QuanLy.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel14.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
-        jLabel14.setText("Quản lý");
+        jLabel14.setText("Quản lý y");
         jLabel14.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 jLabel14MouseClicked(evt);
