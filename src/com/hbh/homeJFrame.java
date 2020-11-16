@@ -23,7 +23,6 @@ public class homeJFrame extends javax.swing.JFrame {
         } catch (Exception ex) {
         }
         initComponents();
-        this.setLocationRelativeTo(null);
     }
 
     /**
